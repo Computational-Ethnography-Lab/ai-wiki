@@ -1,4 +1,4 @@
-# Everything You Wanted to Know About AI
+# Everything You Wanted to Know About AI (in social science)
 _(But Were Afraid to Ask)_
 
 
