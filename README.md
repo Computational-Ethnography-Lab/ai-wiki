@@ -1,19 +1,15 @@
 # Everything You Wanted to Know About AI (in social science)
 _(But Were Afraid to Ask)_
 
+<p align="center">
+  <img src="https://github.com/Computational-Ethnography-Lab/Computational-Ethnography-Lab.io/raw/e7ab5b2af6e8b92efa2120b6a12a9176ad3b2944/images/ciisr.png" alt="CIISR" width="100%">
+</p>
 
 A curated collection of resources for understanding artificial intelligence—from technical foundations to societal implications.
 
 > **About this wiki**: Companion resource for the "Everything You Wanted to Know About AI But Were Afraid to Ask" event hosted by [CIISR](https://ciisr.rice.edu/)
 > Very much in progress...
 > Contributions welcome via pull request.
-
-<p align="center">
-  <a href="https://github.com/Computational-Ethnography-Lab" target="_blank">
-    <img src="https://github.com/Computational-Ethnography-Lab/.github/raw/95529a5a1ffa938274ac5b4b912dbf99e26fd572/profile/images/lab_banner.jpg" alt="Computational Ethnography Lab Banner" width="100%">
-  </a>
-</p>
-
 ---
 
 ## Table of Contents
@@ -60,6 +56,9 @@ Short, accessible introductions to large language models and AI fundamentals.
 - [Ollama Quickstart Guide](https://docs.ollama.com/quickstart) — Run open-source models locally—installation, first model, API basics
 - [Context Engineering with Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — Anthropic (2024); managing context windows for AI agents beyond prompt engineering
 - [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai) — "Best practices" for AI use in academic settings
+
+### Prompts
+- [ChatGPT Prompts for University Educators](https://chatgpt.com/use-cases/university-educators) - Faculty from a dozen disciplines shared prompts they use for teaching and research
 
 ---
 
@@ -241,5 +240,14 @@ To suggest additions:
 4. Submit a pull request
 
 ---
-
 *Last updated: February 2026*
+> Some content in this repository was edited and formatted with assistance from Claude Opus 4.6 (Anthropic).
+---
+
+<p align="center">
+  <a href="https://github.com/Computational-Ethnography-Lab" target="_blank">
+    <img src="https://github.com/Computational-Ethnography-Lab/.github/raw/95529a5a1ffa938274ac5b4b912dbf99e26fd572/profile/images/lab_banner.jpg" alt="Computational Ethnography Lab Banner" width="100%">
+  </a>
+</p>
+
+
