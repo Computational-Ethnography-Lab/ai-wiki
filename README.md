@@ -40,7 +40,7 @@ A curated collection of resources for understanding artificial intelligence—fr
 > **On Terminology** (Abramson et al. 2026, p. 5):
 > 
 > "*Artificial intelligence (AI) refers to technologies designed to mimic human performance on tasks that historically required human intelligence. This can include recognizing patterns, extracting text from .pdf files, classifying images, summarizing interviews, or generating synthetic content such as manipulated images or text. Some subfields commonly used in qualitative research workflows include machine learning (ML) for analyzing behaviors and cases, natural language processing (NLP) for parsing language data, and computer vision for analyzing images. Large language models (LLMs)—deep learning systems trained on mass-scale text data to predict and/or generate language (GPT is a commercial example)—are a subset of AI.*"
-> See Abramson et al. (2026), [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503) ([published](https://doi.org/10.1146/annurev-soc-011824-104836)), Table 1 for a full typology.
+> See Abramson et al. (2026), [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) ([published](https://doi.org/10.1146/annurev-soc-011824-104836)), Table 1 for a full typology.
 > Today the term is often used synonymously with generative Large Language Models (LLMs) like ChatGPT, Claude, and Gemini.
 
 Short, accessible introductions to large language models and AI fundamentals.
@@ -72,12 +72,12 @@ Contrasting viewpoints to help you form your own position.
 ### The Optimist Case
 
 - [One Useful Thing](https://www.oneusefulthing.org/) — Ethan Mollick; AI as collaborative partner; practical applications for knowledge work
-- *Co-Intelligence* (2024) — Ethan Mollick; book-length treatment of human-AI collaboration
+- [*Co-Intelligence*](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/) (2024) — Ethan Mollick; book-length treatment of human-AI collaboration
 
 ### The Critical Case
 
 - [I Set Out to Study Which Jobs Should Be Done by AI](https://www.theguardian.com/commentisfree/article/2024/jun/09/study-which-jobs-ai-human-answer) — Allison Pugh; human connection has limits that AI cannot cross
-- *The Last Human Job* (2024) — Allison Pugh; why certain work requires irreplaceable human qualities
+- [*The Last Human Job*](https://press.princeton.edu/books/hardcover/9780691240817/the-last-human-job) (2024) — Allison Pugh; why certain work requires irreplaceable human qualities
 
 ### The "It's Complicated" Case
 
@@ -95,7 +95,8 @@ Contrasting viewpoints to help you form your own position.
 How social scientists are thinking about AI.
 
 - [The Society of Algorithms](https://doi.org/10.1146/annurev-soc-090820-020800) — Burrell & Fourcade (2021), *Annual Review of Sociology*. How algorithms mediate social life.
-- [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503) — Abramson et al. (2026), *Annual Review of Sociology*. Large review of uses, examples, workflow, cautions in social science; includes traditional and large-scale qualitative examples; concludes with discussion of technological change and implications. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+- [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) — Abramson et al. (2026), *Annual Review of Sociology*. Large review of uses, examples, workflow, cautions in social science; includes traditional and large-scale qualitative examples; concludes with discussion of technological change and implications. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+- [Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning](https://doi.org/10.1177/00491241251325243) — Chae & Davidson (2025), *Sociological Methods & Research* 55(2):501-567. Finds LLMs can code and classify text accurately given appropriate inputs, and that fine-tuned small language models perform competitively at lower cost.
 - [Can Generative AI Improve Social Science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) — Bail (2024), *PNAS*. Review of AI applications across survey, experiments, content analysis, agent-based models.
 - [Start Generating: Harnessing GAI for Sociological Research](https://doi.org/10.1177/23780231241259651) — Davidson (2024), *Socius*. Overview of GAI applications: text classification, image analysis, synthetic media.
 - [A Sociological Approach to Analyzing Satellite and Streetscape Imagery with Generative AI Tools](https://doi.org/10.1177/00491241251339673) — Law & Roberto (2025), *SMR* 54(3). Using generative AI for image analysis in social science research.
@@ -113,7 +114,6 @@ How social scientists are thinking about AI.
 
 - [Integrating Generative AI into Social Science Research](https://doi.org/10.1177/00491241251339184) — Davidson & Karell (2025), *SMR* 54(3):775-793. Introduction to SMR special issue; discusses measurement, prompting, and simulation themes across ten contributed articles.
 - [From Codebooks to Promptbooks](https://doi.org/10.1177/00491241241227968) — Stuhler, Ton & Ollion (2025), *SMR* 54(3):794-848. Extracting information from text with generative LLMs.
-- [LLMs for Text Classification: Zero-Shot to Instruction-Tuning](https://doi.org/10.1177/00491241251325243) — Chae & Davidson (2025), *Sociological Methods & Research*. Comparing 10 LLMs across prompting, fine-tuning, and instruction-tuning.
 - [Scaling Hermeneutics](https://doi.org/10.1140/epjds/s13688-025-00548-8) — Dunivin (2025), *EPJ Data Science* 14(1):28. Hybrid approach preserving interpretive depth while scaling qualitative coding with LLMs; includes codebook adaptation workflow and intercoder reliability benchmarks.
 - [Utilizing AI to Facilitate Qualitative Surgical Research](https://pubmed.ncbi.nlm.nih.gov/40557355/) — Farber, Abramson & Reich (2025), *Annals of Surgery Open* 6(2):e577. AI and qualitative in medicine: uses, cautions, challenges.
 
@@ -144,7 +144,7 @@ How social scientists are thinking about AI.
 
 ## Social Science Workflow with AI
 
-Adapted from Abramson et al. (2026), [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503) ([published](https://doi.org/10.1146/annurev-soc-011824-104836)), *Annual Review of Sociology*, Table 2:
+Adapted from Abramson et al. (2026), [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) ([published](https://doi.org/10.1146/annurev-soc-011824-104836)), *Annual Review of Sociology*, Table 2:
 
 |  | Assistive | Automated | Agentic |
 |---|-----------|-----------|---------|
@@ -239,7 +239,7 @@ University-specific policies for responsible AI use.
 Computational Ethnography Lab materials and related publications, gathered in one place.
 
 - [Computational Analysis for Qualitative Data](https://github.com/Computational-Ethnography-Lab/teaching) — Lab teaching repository: workflow, Python toolkits, visualization, and bibliography for integrating computational text analysis with qualitative research.
-- [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52:20.1–20.27. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+- [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52:20.1–20.27. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
 - [The Promises of Computational Ethnography](https://doi.org/10.1177/1466138117725340) — Abramson, Joslyn, Rendle, Garrett & Dohan (2018), *Ethnography* 19(2):254–284. How computational tools extend ethnographic analysis.
 - [Ethnography and Machine Learning: Synergies and New Directions](https://doi.org/10.1093/oxfordhb/9780197653609.013.36) — Li & Abramson (2025), in *The Oxford Handbook of the Sociology of Machine Learning*, pp. 245–272.
 
