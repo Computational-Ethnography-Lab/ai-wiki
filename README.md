@@ -39,7 +39,7 @@ A curated collection of resources for understanding artificial intelligence—fr
 > **On Terminology** (Abramson et al. 2026, p. 5):
 > 
 > "*Artificial intelligence (AI) refers to technologies designed to mimic human performance on tasks that historically required human intelligence. This can include recognizing patterns, extracting text from .pdf files, classifying images, summarizing interviews, or generating synthetic content such as manipulated images or text. Some subfields commonly used in qualitative research workflows include machine learning (ML) for analyzing behaviors and cases, natural language processing (NLP) for parsing language data, and computer vision for analyzing images. Large language models (LLMs)—deep learning systems trained on mass-scale text data to predict and/or generate language (GPT is a commercial example)—are a subset of AI.*"
-> See Abramson et al. (2026), [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503), Table 1 for a full typology.
+> See Abramson et al. (2026), [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503) ([published](https://doi.org/10.1146/annurev-soc-011824-104836)), Table 1 for a full typology.
 > Today the term is often used synonymously with generative Large Language Models (LLMs) like ChatGPT, Claude, and Gemini.
 
 Short, accessible introductions to large language models and AI fundamentals.
@@ -169,7 +169,7 @@ Contrasting viewpoints to help you form your own position.
 How social scientists are thinking about AI.
 
 - [The Society of Algorithms](https://doi.org/10.1146/annurev-soc-090820-020800) — Burrell & Fourcade (2021), *Annual Review of Sociology*. How algorithms mediate social life.
-- [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503) — Abramson et al. (2026), *Annual Review of Sociology*. Large review of uses, examples, workflow, cautions in social science; includes traditional and large-scale qualitative examples; concludes with discussion of technological change and implications.
+- [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503) — Abramson et al. (2026), *Annual Review of Sociology*. Large review of uses, examples, workflow, cautions in social science; includes traditional and large-scale qualitative examples; concludes with discussion of technological change and implications. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
 - [Can Generative AI Improve Social Science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) — Bail (2024), *PNAS*. Review of AI applications across survey, experiments, content analysis, agent-based models.
 - [Start Generating: Harnessing GAI for Sociological Research](https://doi.org/10.1177/23780231241259651) — Davidson (2024), *Socius*. Overview of GAI applications: text classification, image analysis, synthetic media.
 - [A Sociological Approach to Analyzing Satellite and Streetscape Imagery with Generative AI Tools](https://doi.org/10.1177/00491241251339673) — Law & Roberto (2025), *SMR* 54(3). Using generative AI for image analysis in social science research.
@@ -218,7 +218,7 @@ How social scientists are thinking about AI.
 
 ## Social Science Workflow with AI
 
-Adapted from Abramson et al. (2026), [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503), *Annual Review of Sociology*, Table 2:
+Adapted from Abramson et al. (2026), [Qualitative Research in an Era of AI](https://arxiv.org/abs/2509.12503) ([published](https://doi.org/10.1146/annurev-soc-011824-104836)), *Annual Review of Sociology*, Table 2:
 
 |  | Assistive | Automated | Agentic |
 |---|-----------|-----------|---------|
