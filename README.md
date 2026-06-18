@@ -2,7 +2,9 @@
 _(But Were Afraid to Ask)_
 
 <p align="center">
-  <img src="https://github.com/Computational-Ethnography-Lab/Computational-Ethnography-Lab.io/raw/e7ab5b2af6e8b92efa2120b6a12a9176ad3b2944/images/ciisr.png" alt="CIISR" width="100%">
+  <a href="https://ciisr.rice.edu/" target="_blank">
+    <img src="https://github.com/Computational-Ethnography-Lab/Computational-Ethnography-Lab.io/raw/e7ab5b2af6e8b92efa2120b6a12a9176ad3b2944/images/ciisr.png" alt="CIISR" width="100%">
+  </a>
 </p>
 
 A curated collection of resources for understanding artificial intelligence—from technical foundations to societal implications.
@@ -16,12 +18,14 @@ A curated collection of resources for understanding artificial intelligence—fr
 
 - [Getting Started: What is AI?](#getting-started-what-is-ai)
 - [Dueling Perspectives: AI Optimism vs. Criticism](#dueling-perspectives-ai-optimism-vs-criticism)
-- [Sociological & Methodological Perspectives](#sociological--methodological-perspectives)
+- [Sociological Perspectives](#sociological-perspectives)
+  - [Overviews & Perspectives](#overviews--perspectives)
   - [Attitudes Toward AI](#attitudes-toward-ai)
   - [LLM-Focused Methods](#llm-focused-methods)
-  - [Qualitative & Computational Text Analysis Methods](#qualitative--computational-text-analysis-methods)
-  - [Computational Text Analysis (Broader Context)](#computational-text-analysis-broader-context)
-  - [Additional Resources](#additional-resources)
+  - [LLM Simulation of Social Agents](#llm-simulation-of-social-agents)
+  - [Qualitative Coding Methods (Broader Context)](#qualitative-coding-methods-broader-context)
+  - [LLM-Assisted & Large-Scale Qualitative Analysis](#llm-assisted--large-scale-qualitative-analysis)
+  - [Additional Resources (adjacent)](#additional-resources-adjacent)
 - [Social Science Workflow with AI](#social-science-workflow-with-ai)
 - [Responsible AI & Ethics](#responsible-ai--ethics)
 - [AI Governance & Regulation](#ai-governance--regulation)
@@ -48,7 +52,6 @@ Short, accessible introductions to large language models and AI fundamentals.
 - [What is a Large Language Model?](https://www.cloudflare.com/learning/ai/what-is-large-language-model/) — Cloudflare's accessible technical overview
 - [What are Large Language Models?](https://www.ibm.com/think/topics/large-language-models) — IBM's introduction to LLMs
 - [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) — Mark Riedl (Georgia Tech); balanced, jargon-free overview
-- [A Guide to Understanding AI as Normal Technology](https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal) — Narayanan & Kapoor (2025); demystifying AI hype
 
 ### Practical Guides
 
@@ -76,7 +79,7 @@ Contrasting viewpoints to help you form your own position.
 
 ### The Critical Case
 
-- [I Set Out to Study Which Jobs Should Be Done by AI](https://www.theguardian.com/commentisfree/article/2024/jun/09/study-which-jobs-ai-human-answer) — Allison Pugh; human connection has limits that AI cannot cross
+- [I Set Out to Study Which Jobs Should Be Done by AI](https://www.theguardian.com/commentisfree/2025/jan/21/ai-jobs-human-work-relationship-tech) — Allison Pugh; human connection has limits that AI cannot cross
 - [*The Last Human Job*](https://press.princeton.edu/books/hardcover/9780691240817/the-last-human-job) (2024) — Allison Pugh; why certain work requires irreplaceable human qualities
 
 ### The "It's Complicated" Case
@@ -90,59 +93,64 @@ Contrasting viewpoints to help you form your own position.
 
 ---
 
-## Sociological & Methodological Perspectives
+## Sociological Perspectives
 
 How social scientists are thinking about AI.
 
+### Overviews & Perspectives
+
 - [The Society of Algorithms](https://doi.org/10.1146/annurev-soc-090820-020800) — Burrell & Fourcade (2021), *Annual Review of Sociology*. How algorithms mediate social life.
-- [*The Ordinal Society*](https://www.hup.harvard.edu/books/9780674971141) — Fourcade & Healy (2024), Harvard University Press. How pervasive measurement, scoring, and ranking by data-driven systems reshape markets, the public sphere, and the self.
-- [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) — Abramson et al. (2026), *Annual Review of Sociology*. Large review of uses, examples, workflow, cautions in social science; includes traditional and large-scale qualitative examples; concludes with discussion of technological change and implications. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
-- [Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning](https://doi.org/10.1177/00491241251325243) — Chae & Davidson (2025), *Sociological Methods & Research* 55(2):501-567. Finds LLMs can code and classify text accurately given appropriate inputs, and that fine-tuned small language models perform competitively at lower cost.
-- ["Conversing" with Qualitative Data: Enhancing Qualitative Research Through Large Language Models](https://doi.org/10.1177/16094069251322346) — Hayes (2025), *International Journal of Qualitative Methods*. Using LLMs as interactive analytic partners to work through qualitative data.
 - [Can Generative AI Improve Social Science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) — Bail (2024), *PNAS*. Review of AI applications across survey, experiments, content analysis, agent-based models.
+- [*The Ordinal Society*](https://www.hup.harvard.edu/books/9780674971141) — Fourcade & Healy (2024), Harvard University Press. How pervasive measurement, scoring, and ranking by data-driven systems reshape markets, the public sphere, and the self.
 - [Start Generating: Harnessing GAI for Sociological Research](https://doi.org/10.1177/23780231241259651) — Davidson (2024), *Socius*. Overview of GAI applications: text classification, image analysis, synthetic media.
-- [A Sociological Approach to Analyzing Satellite and Streetscape Imagery with Generative AI Tools](https://doi.org/10.1177/00491241251339673) — Law & Roberto (2025), *SMR* 54(3). Using generative AI for image analysis in social science research.
-- [Updating "The Future of Coding"](https://doi.org/10.1177/00491241251339188) — Than, Fan, Law, Nelson & McCall (2025), *SMR* 54(3):849-888. Systematic comparison of LLM coding approaches to human coding.
+- [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52:20.1–20.27. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+- [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) — Edelmann, Wolff, Montagne & Bail (2020), *Annual Review of Sociology*. Reviews how computational methods and large-scale digital data are reshaping sociological inquiry.
+
+### Attitudes Toward AI
+
+- [Generative AI in Sociological Research: State of the Discipline](https://sociologicalscience.com/articles-v13-3-45/) ([preprint](https://arxiv.org/abs/2511.16884)) — Alvero, Stoltz, Stuhler & Taylor (2025), *Sociological Science*. Survey of authors across 50 sociology journals on GenAI use and attitudes. Finds sociologists primarily use GenAI for writing tasks; low trust in outputs regardless of expertise; few differences between computational and non-computational scholars.
+- [Is it OK for AI to Write Science Papers? Nature Survey Shows Researchers Are Split](https://doi.org/10.1038/d41586-025-01463-8) — Kwon (2025), *Nature* 641. Survey of ~5,000 researchers worldwide; sharp divisions on ethical acceptability of AI in manuscript preparation; perception-practice gap where few disclose AI use despite broad acceptance.
+- [Introducing Anthropic Interviewer: What 1,250 Professionals Told Us About Working with AI](https://www.anthropic.com/research/anthropic-interviewer) — Handa et al. (2025), Anthropic Research. AI-conducted qualitative interviews with 1,250 professionals (general workforce, scientists, creatives). Notable for using AI to do qualitative research at scale; finds optimism alongside stigma concerns (69%), displacement anxiety (55%), and low trust among scientists for core research tasks. [Public dataset](https://huggingface.co/datasets/Anthropic/AnthropicInterviewer).
+- [We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research](https://doi.org/10.1177/10778004251401851) — Jowsey, Braun, Clarke, Lupton, Fine et al. (2025), *Qualitative Inquiry*. A statement co-signed by Braun, Clarke, and 415 qualitative researchers across 32 countries arguing that reflexive thematic analysis is an irreducibly human practice and that generative-AI use is methodologically incongruent.
+
+### LLM-Focused Methods
+
+- [Integrating Generative AI into Social Science Research](https://doi.org/10.1177/00491241251339184) — Davidson & Karell (2025), *SMR* 54(3):775-793. Introduction to SMR special issue; discusses measurement, prompting, and simulation themes across ten contributed articles.
+- [From Codebooks to Promptbooks](https://doi.org/10.1177/00491241251336794) — Stuhler, Ton & Ollion (2025), *SMR* 54(3):794-848. Extracting information from text with generative LLMs.
+- [Scaling Hermeneutics](https://doi.org/10.1140/epjds/s13688-025-00548-8) — Dunivin (2025), *EPJ Data Science* 14(1):28. Hybrid approach preserving interpretive depth while scaling qualitative coding with LLMs; includes codebook adaptation workflow and intercoder reliability benchmarks.
+- [Utilizing AI to Facilitate Qualitative Surgical Research](https://pubmed.ncbi.nlm.nih.gov/40557355/) — Farber, Abramson & Reich (2025), *Annals of Surgery Open* 6(2):e577. AI and qualitative in medicine: uses, cautions, challenges.
+- [Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning](https://doi.org/10.1177/00491241251325243) — Chae & Davidson (2025), *Sociological Methods & Research* 55(2):501-567. Finds that LLMs can code and classify text accurately given appropriate inputs, and that fine-tuned, purpose-built small language models are a competitive alternative—comparably accurate at substantially lower cost.
+
+### LLM Simulation of Social Agents
+
 - [LLM Social Simulations Are a Promising Research Method](https://arxiv.org/abs/2504.02234) — Anthis, Kozlowski, Evans et al. (2025), *ICML 2025*. Using LLMs to simulate human research subjects—challenges and possibilities.
 - [Simulating Subjects](https://doi.org/10.1177/00491241251337316) — Kozlowski & Evans (2025), *SMR* 54(3):1017-1073. Promise and peril of using LLMs to simulate human subjects and social interactions.
 - [Machine Bias: How Do Generative Language Models Answer Opinion Polls?](https://doi.org/10.1177/00491241251330582) — Boelaert, Coavoux, Ollion, Petev & Präg (2025), *Sociological Methods & Research* 54(3):1156-1196. Generative LLMs give biased, non-representative answers when used to simulate opinion-poll responses.
 - [Synthetic Replacements for Human Survey Data? The Perils of Large Language Models](https://doi.org/10.1017/pan.2024.5) — Bisbee, Clinton, Dorff, Kenkel & Larson (2024), *Political Analysis* 32(4):401-416. LLM-generated survey responses match some averages but distort variation and drift over time—cautioning against replacing human respondents.
 
-### Attitudes Toward AI
+### Qualitative Coding Methods (Broader Context)
 
-- [Generative AI in Sociological Research: State of the Discipline](https://doi.org/10.15195/v13.a3) ([preprint](https://arxiv.org/abs/2511.16884)) — Alvero, Stoltz, Stuhler & Taylor (2025), *Sociological Science*. Survey of authors across 50 sociology journals on GenAI use and attitudes. Finds sociologists primarily use GenAI for writing tasks; low trust in outputs regardless of expertise; few differences between computational and non-computational scholars.
-- [Is it OK for AI to Write Science Papers? Nature Survey Shows Researchers Are Split](https://doi.org/10.1038/d41586-025-01463-8) — Kwon (2025), *Nature* 641. Survey of ~5,000 researchers worldwide; sharp divisions on ethical acceptability of AI in manuscript preparation; perception-practice gap where few disclose AI use despite broad acceptance.
-- [Introducing Anthropic Interviewer: What 1,250 Professionals Told Us About Working with AI](https://www.anthropic.com/research/anthropic-interviewer) — Handa et al. (2025), Anthropic Research. AI-conducted qualitative interviews with 1,250 professionals (general workforce, scientists, creatives). Notable for using AI to do qualitative research at scale; finds optimism alongside stigma concerns (69%), displacement anxiety (55%), and low trust among scientists for core research tasks. [Public dataset](https://huggingface.co/datasets/Anthropic/AnthropicInterviewer).
-
-### LLM-Focused Methods
-
-- [Integrating Generative AI into Social Science Research](https://doi.org/10.1177/00491241251339184) — Davidson & Karell (2025), *SMR* 54(3):775-793. Introduction to SMR special issue; discusses measurement, prompting, and simulation themes across ten contributed articles.
-- [From Codebooks to Promptbooks](https://doi.org/10.1177/00491241241227968) — Stuhler, Ton & Ollion (2025), *SMR* 54(3):794-848. Extracting information from text with generative LLMs.
-- [Scaling Hermeneutics](https://doi.org/10.1140/epjds/s13688-025-00548-8) — Dunivin (2025), *EPJ Data Science* 14(1):28. Hybrid approach preserving interpretive depth while scaling qualitative coding with LLMs; includes codebook adaptation workflow and intercoder reliability benchmarks.
-- [Utilizing AI to Facilitate Qualitative Surgical Research](https://pubmed.ncbi.nlm.nih.gov/40557355/) — Farber, Abramson & Reich (2025), *Annals of Surgery Open* 6(2):e577. AI and qualitative in medicine: uses, cautions, challenges.
-
-### Qualitative & Computational Text Analysis Methods
-
-- [Contextual Text Coding](https://doi.org/10.1177/0049124120986191) — Lichtenstein & Rucks-Ahidiana (2023), *SMR* 52(2):606-641. Mixed-methods approach for large-scale textual data with context-specific meanings.
+- [Computational Grounded Theory](https://doi.org/10.1177/0049124117729703) — Nelson (2020), *SMR* 49(1):3-42. Foundational three-step workflow (pattern detection, refinement, confirmation) for computational text analysis.
 - [Flexible Coding of In-depth Interviews](https://doi.org/10.1177/0049124118799377) — Deterding & Waters (2018), *SMR*. Twenty-first-century approach to flexible coding.
 - [The Living Codebook](https://doi.org/10.1177/0049124120986185) — Reyes et al. (2021), *SMR*. Documenting the process of qualitative data analysis.
-- [Computational Grounded Theory](https://doi.org/10.1177/0049124117729703) — Nelson (2020), *SMR* 49(1):3-42. Foundational three-step workflow (pattern detection, refinement, confirmation) for computational text analysis.
+- [Contextual Text Coding](https://doi.org/10.1177/0049124120986191) — Lichtenstein & Rucks-Ahidiana (2023), *SMR* 52(2):606-641. Mixed-methods approach for large-scale textual data with context-specific meanings.
 - [Qualitative Coding in the Computational Era](https://osf.io/preprints/socarxiv/gpr4n_v1) — Li, Dohan & Abramson (2021), *Socius* 7. BERT example using local ML and human review for interview text classification. Appendix deals with false positives versus negatives in qualitative analysis. [Related blog](https://cmabramson.com/resources/f/using-machine-learning-with-ethnographic-interviews).
-- [Ethnography and Machine Learning](https://arxiv.org/abs/2412.06087) — Li & Abramson (2025), *Oxford Handbook of the Sociology of Machine Learning*, pp. 245-272. Workflow with ML, local models, updated benchmarks for offline systems runnable on consumer hardware; also discusses file naming for QDA.
-- [Inequality in the Origins and Experiences of Pain](https://www.rsfjournal.org/content/10/5/34) — Abramson et al. (2024), *RSF* 10(5):34-65. Simplified semantic networks using ML to subset text and visualize alongside in-depth reading.
-
-### Computational Text Analysis (Broader Context)
-
-- [The Promises of Computational Ethnography](https://doi.org/10.1177/1466138117725340) — Abramson et al. (2018), *Ethnography* 19(2):254-284. Broader case for triangulation and engagement with computation in in-depth qualitative data using data science/computational approaches.
 - [Meaning in Hyperspace](https://doi.org/10.1146/annurev-soc-090324-024027) — Boutyline & Arseniev-Koehler (2025), *ARS* 51:89-107. Word embeddings as tools for cultural measurement; contains examples, good overview, links to pieces on measurement and similarity. Relevant to AI (embeddings are a key layer increasingly used in and outside of AI).
-- [Computational Analysis for Qualitative Data: Workflow and Visualization Resources](https://github.com/Computational-Ethnography-Lab/teaching) — Computational Ethnography Lab. Comprehensive teaching repository with workflow summaries, Python toolkits, bibliography, and practical resources for integrating computational text analysis with qualitative research.
+
+### LLM-Assisted & Large-Scale Qualitative Analysis
+
+- ["Conversing" with Qualitative Data: Enhancing Qualitative Research Through Large Language Models](https://doi.org/10.1177/16094069251322346) — Hayes (2025), *International Journal of Qualitative Methods*. Using LLMs as interactive analytic partners to work through qualitative data.
+- [Updating "The Future of Coding"](https://doi.org/10.1177/00491241251339188) — Than, Fan, Law, Nelson & McCall (2025), *SMR* 54(3):849-888. Systematic comparison of LLM coding approaches to human coding.
+- [A Sociological Approach to Analyzing Satellite and Streetscape Imagery with Generative AI Tools](https://doi.org/10.1177/00491241251339673) — Law & Roberto (2025), *SMR* 54(3). Using generative AI for image analysis in social science research.
+- [Listening to the Voices of America](https://doi.org/10.7758/rsf.2024.10.5.01) — Edin, Fields, Grusky, Leskovec, Mattingly, Olson & Varner (2024), *RSF: The Russell Sage Foundation Journal of the Social Sciences*. Large-scale qualitative-interview infrastructure for studying American life, with attention to data collection, sharing, and reuse.
+- [Inequality in the Origins and Experiences of Pain](https://www.rsfjournal.org/content/10/5/34) — Abramson et al. (2024), *RSF* 10(5):34-65. Simplified semantic networks using ML to subset text and visualize alongside in-depth reading.
 
 ### Additional Resources (adjacent)
 
 - [De-jargoning Qualitative Coding](https://cmabramson.com/resources/f/qualitative-coding-simplified?blogcategory=Analysis) — Academic resource simplifying qualitative coding concepts (academic cite in Li & Abramson 2025)
 - [Sub-setting Qualitative Data for Machine Learning](https://cmabramson.com/resources/f/sub-setting-qualitative-data-for-machine-learning) — Guide to creating comparison sets in QDA
-- [From Carbon Paper to Code](https://contexts.org/blog/soc-ai/) — Abramson (2024). Short, simple argument for how AI can be part of triangulation—repurposing language models as a sociological tool. This is what the field has done since Mills used a filing cabinet to write about the power elite, and Du Bois used data visualization to debunk myths about Black Americans.
 - [Using Machine Learning with Ethnographic Interviews](https://cmabramson.com/resources/f/using-machine-learning-with-ethnographic-interviews) — Blog companion to Li, Dohan & Abramson (2021)
+- [Ethnography, Data Transparency, and the Information Age](https://doi.org/10.1146/annurev-soc-090320-124805) — Murphy, Jerolmack & Smith (2021), *Annual Review of Sociology*. Reviews two decades of debate over how ethnographers record, anonymize, and share fieldnotes amid open-science mandates and data-repository requirements.
 
 ---
 
@@ -176,6 +184,8 @@ Frameworks for thinking about AI ethics and responsibility.
 | Recommendation on the Ethics of AI (2021) | UNESCO | [unesco.org](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
 | Ethically Aligned Design | IEEE | [ethicsinaction.ieee.org](https://ethicsinaction.ieee.org/) |
 | Code of Ethics | ACM | [acm.org](https://www.acm.org/code-of-ethics) |
+
+- [The Global Landscape of AI Ethics Guidelines](https://doi.org/10.1038/s42256-019-0088-2) — Jobin, Ienca & Vayena (2019), *Nature Machine Intelligence*. Systematic review of 84 AI-ethics guidelines worldwide, mapping where principles converge (transparency, justice, non-maleficence) and where they diverge.
 
 ---
 
@@ -211,10 +221,12 @@ AI in specific fields.
 ### Medicine & Health
 
 - [A Guide to Deep Learning in Healthcare](https://doi.org/10.1038/s41591-018-0300-7) — Esteva et al. (2019), *Nature Medicine*
+- [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://doi.org/10.1126/science.aax2342) — Obermeyer, Powers, Vogeli & Mullainathan (2019), *Science*. A widely deployed commercial health-care algorithm systematically underestimated illness severity in Black patients—a concrete case of how optimization targets can encode structural racism.
 
 ### Software & Society
 
 - [A Silicon Cage?: Qualitative Research in the Era of AI](https://www.cultureofmedicine.org/blog/a-silicon-cage-qualitative-research-in-the-era-of-ai) — Abramson (2023), *Medical Cultures Lab*. Weber's "iron cage" meets AI tools.
+- [Algorithmic Control in Platform Food-Delivery Work](https://doi.org/10.1177/2378023119870041) — Griesbach, Reich, Elliott-Negri & Milkman (2019), *Socius*. Empirical study of how delivery platforms use algorithmic management to direct and discipline labor.
 
 ---
 
@@ -223,7 +235,6 @@ AI in specific fields.
 Structured learning paths for AI governance, ethics, and computational text analysis.
 
 - [Stanford STS 14/CS 134](https://web.stanford.edu/class/sts14/index.html) — Graduate; AI Governance: full syllabus with readings
-- [Computational Analysis for Qualitative Data](https://github.com/Computational-Ethnography-Lab/teaching) — Computational Ethnography Lab; workflow, Python toolkits, visualization, bibliography, and practical resources for integrating computational text analysis with qualitative research
 
 ---
 
@@ -336,7 +347,7 @@ To suggest additions:
 
 ---
 *Last updated: June 2026*
-> Some content in this repository was edited and formatted with assistance from Claude Opus 4.6 (Anthropic).
+> Some content in this repository was edited and formatted with assistance from Claude Opus 4.8 (Anthropic).
 ---
 
 <p align="center">
