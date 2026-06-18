@@ -290,6 +290,9 @@ Plain-language definitions of terms you encounter when using AI in research. Eac
 - **Deep learning** — Machine learning based on neural networks with many layers. ([Wikipedia](https://en.wikipedia.org/wiki/Deep_learning), [AWS](https://aws.amazon.com/what-is/deep-learning/))
 - **Transformer** — A neural-network architecture well suited to sequences such as text, and the basis of modern language models. ([Wikipedia](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)), [NVIDIA](https://blogs.nvidia.com/blog/what-is-a-transformer-model/))
 - **Foundation model (base model)** — A general-purpose model trained on broad data before any task-specific fine-tuning or customization. ([Wikipedia](https://en.wikipedia.org/wiki/Foundation_model), [AWS](https://aws.amazon.com/what-is/foundation-models/))
+- **Large language model (LLM)** — A deep-learning system trained on mass-scale text data to predict and/or generate language; a subset of AI. ([Wikipedia](https://en.wikipedia.org/wiki/Large_language_model), [IBM](https://www.ibm.com/think/topics/large-language-models))
+- **Small language model (SLM)** — A language model with far fewer parameters than a large one, designed to run efficiently on modest or local hardware (e.g., a desktop or in-house server) at lower cost. ([Wikipedia](https://en.wikipedia.org/wiki/Small_language_model); Abramson et al. 2026 run local SLMs for secure coding, [*ARS*](https://doi.org/10.1146/annurev-soc-011824-104836))
+- **Attention / self-attention** — A mechanism that lets a model weigh which parts of a sequence matter most relative to each other; the core operation behind transformers. ([Wikipedia](https://en.wikipedia.org/wiki/Attention_(machine_learning)), [Google](https://developers.google.com/machine-learning/glossary#attention))
 
 **Language-model terms**
 
@@ -299,6 +302,9 @@ Plain-language definitions of terms you encounter when using AI in research. Eac
 - **Temperature** — A setting that controls how random or conservative a model's outputs are; lower values are more predictable, higher values more varied. ([Wikipedia](https://en.wikipedia.org/wiki/Softmax_function), [Vellum](https://www.vellum.ai/llm-parameters/temperature))
 - **Deterministic vs. stochastic output** — Deterministic: the same input always yields the same output. Stochastic: outputs can vary due to randomness in generation. ([Wikipedia](https://en.wikipedia.org/wiki/Deterministic_algorithm), [NIST](https://csrc.nist.gov/glossary/term/deterministic_algorithm))
 - **Custom GPTs** — User-configured versions of a general model that bundle custom instructions, documents, or tools for a particular task. ([Wikipedia](https://en.wikipedia.org/wiki/ChatGPT), [MIT Sloan](https://mitsloanedtech.mit.edu/ai/tools/custom-gpts-at-mit-sloan-a-comprehensive-guide/))
+- **GPT (generative pre-trained transformer)** — A transformer-based large language model trained to generate language (e.g., ChatGPT). ([Wikipedia](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer), [Google](https://developers.google.com/machine-learning/resources/intro-llms))
+- **Quantization** — Reducing the numerical precision of a model's weights (e.g., 32-bit to 8-bit) to shrink memory use and speed up inference, often to run models on local or limited hardware. ([Wikipedia](https://en.wikipedia.org/wiki/Quantization_(signal_processing)), [Hugging Face](https://huggingface.co/docs/optimum/en/concept_guides/quantization))
+- **Distillation (knowledge distillation)** — Training a smaller "student" model to reproduce the behavior of a larger "teacher" model, a common way small language models are built. ([Wikipedia](https://en.wikipedia.org/wiki/Knowledge_distillation), [Google Research](https://research.google/blog/distilling-step-by-step-outperforming-larger-language-models-with-less-training-data-and-smaller-model-sizes/))
 
 **Prompts, context & interaction**
 
