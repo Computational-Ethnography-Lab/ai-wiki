@@ -95,14 +95,18 @@ Contrasting viewpoints to help you form your own position.
 How social scientists are thinking about AI.
 
 - [The Society of Algorithms](https://doi.org/10.1146/annurev-soc-090820-020800) — Burrell & Fourcade (2021), *Annual Review of Sociology*. How algorithms mediate social life.
+- [*The Ordinal Society*](https://www.hup.harvard.edu/books/9780674971141) — Fourcade & Healy (2024), Harvard University Press. How pervasive measurement, scoring, and ranking by data-driven systems reshape markets, the public sphere, and the self.
 - [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) — Abramson et al. (2026), *Annual Review of Sociology*. Large review of uses, examples, workflow, cautions in social science; includes traditional and large-scale qualitative examples; concludes with discussion of technological change and implications. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
 - [Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning](https://doi.org/10.1177/00491241251325243) — Chae & Davidson (2025), *Sociological Methods & Research* 55(2):501-567. Finds LLMs can code and classify text accurately given appropriate inputs, and that fine-tuned small language models perform competitively at lower cost.
+- ["Conversing" with Qualitative Data: Enhancing Qualitative Research Through Large Language Models](https://doi.org/10.1177/16094069251322346) — Hayes (2025), *International Journal of Qualitative Methods*. Using LLMs as interactive analytic partners to work through qualitative data.
 - [Can Generative AI Improve Social Science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) — Bail (2024), *PNAS*. Review of AI applications across survey, experiments, content analysis, agent-based models.
 - [Start Generating: Harnessing GAI for Sociological Research](https://doi.org/10.1177/23780231241259651) — Davidson (2024), *Socius*. Overview of GAI applications: text classification, image analysis, synthetic media.
 - [A Sociological Approach to Analyzing Satellite and Streetscape Imagery with Generative AI Tools](https://doi.org/10.1177/00491241251339673) — Law & Roberto (2025), *SMR* 54(3). Using generative AI for image analysis in social science research.
 - [Updating "The Future of Coding"](https://doi.org/10.1177/00491241251339188) — Than, Fan, Law, Nelson & McCall (2025), *SMR* 54(3):849-888. Systematic comparison of LLM coding approaches to human coding.
 - [LLM Social Simulations Are a Promising Research Method](https://arxiv.org/abs/2504.02234) — Anthis, Kozlowski, Evans et al. (2025), *ICML 2025*. Using LLMs to simulate human research subjects—challenges and possibilities.
 - [Simulating Subjects](https://doi.org/10.1177/00491241251337316) — Kozlowski & Evans (2025), *SMR* 54(3):1017-1073. Promise and peril of using LLMs to simulate human subjects and social interactions.
+- [Machine Bias: How Do Generative Language Models Answer Opinion Polls?](https://doi.org/10.1177/00491241251330582) — Boelaert, Coavoux, Ollion, Petev & Präg (2025), *Sociological Methods & Research* 54(3):1156-1196. Generative LLMs give biased, non-representative answers when used to simulate opinion-poll responses.
+- [Synthetic Replacements for Human Survey Data? The Perils of Large Language Models](https://doi.org/10.1017/pan.2024.5) — Bisbee, Clinton, Dorff, Kenkel & Larson (2024), *Political Analysis* 32(4):401-416. LLM-generated survey responses match some averages but distort variation and drift over time—cautioning against replacing human respondents.
 
 ### Attitudes Toward AI
 
