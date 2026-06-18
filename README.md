@@ -55,6 +55,11 @@ Short, accessible introductions to large language models and AI fundamentals.
 
 ### Practical Guides
 
+> **Note**: From The Neuron, an ad-supported AI newsletter — useful beginner walkthroughs, but expect ads and product plugs.
+
+- [How to Actually Use AI in 2026: The Complete Proficiency Guide](https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/) — The Neuron. A five-level framework for using AI tools, from basic setup and prompting through reusable workflows and autonomous agents; aimed at newcomers but scales up.
+- [AI for Total Beginners: Learn the Absolute Basics of AI 2026](https://www.theneuron.ai/explainer-articles/everything-we-covered-in-our-ai-for-total-beginners-livestream-full-guide-with-timestamps/) — The Neuron. Step-by-step livestream walkthrough (with timestamps) of setting up projects, writing prompts, building skills, and scheduling tasks across ChatGPT, Claude, and Gemini; includes a "which tool is best for what" rankings section.
+
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) — Official best practices for GPT models
 - [Anthropic Claude Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — Official guide for Claude models
 - [Gemini Prompt Engineering Guide](https://ai.google.dev/gemini-api/docs/prompting-strategies) — Official guide for Gemini models
