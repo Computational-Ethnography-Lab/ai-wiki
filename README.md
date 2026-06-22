@@ -55,10 +55,12 @@ Short, accessible introductions to large language models and AI fundamentals.
 
 ### Practical Guides
 
-> **Note**: From The Neuron, an ad-supported AI newsletter — useful beginner walkthroughs, but expect ads and product plugs.
+
 
 - [How to Actually Use AI in 2026: The Complete Proficiency Guide](https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/) — The Neuron. A five-level framework for using AI tools, from basic setup and prompting through reusable workflows and autonomous agents; aimed at newcomers but scales up.
 - [AI for Total Beginners: Learn the Absolute Basics of AI 2026](https://www.theneuron.ai/explainer-articles/everything-we-covered-in-our-ai-for-total-beginners-livestream-full-guide-with-timestamps/) — The Neuron. Step-by-step livestream walkthrough (with timestamps) of setting up projects, writing prompts, building skills, and scheduling tasks across ChatGPT, Claude, and Gemini; includes a "which tool is best for what" rankings section.
+
+> **Note**: From The Neuron, an ad-supported AI newsletter — useful beginner walkthroughs, but expect some ads.
 
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) — Official best practices for GPT models
 - [Anthropic Claude Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — Official guide for Claude models
@@ -66,7 +68,7 @@ Short, accessible introductions to large language models and AI fundamentals.
 - [Context Engineering Guide](https://www.datacamp.com/blog/context-engineering) — DataCamp; beyond prompts: designing full information flows for AI
 - [Ollama Quickstart Guide](https://docs.ollama.com/quickstart) — Run open-source models locally—installation, first model, API basics
 - [Context Engineering with Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — Anthropic (2024); managing context windows for AI agents beyond prompt engineering
-- [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai) — "Best practices" for AI use in academic settings
+- [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai) — "Best practices" for AI use in academic settings, with lots of guides.
 
 ### Prompts
 - [ChatGPT Prompts for University Educators](https://chatgpt.com/use-cases/university-educators) - Faculty from a dozen disciplines shared prompts they use for teaching and research
@@ -92,7 +94,7 @@ Contrasting viewpoints to help you form your own position.
 - [AI Snake Oil](https://www.aisnakeoil.com/) — Narayanan & Kapoor; separating genuine capabilities from hype
 - [A Guide to Understanding AI as Normal Technology](https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal) — Narayanan & Kapoor; AI as evolving technology, not magic
 
-### The Pragmatic Case: Considered Use
+### The Pragmatic Case: Considered Use 
 
 - [From Carbon Paper to Code: Crafting Sociology in an Age of AI](https://contexts.org/blog/soc-ai/) — Corey M. Abramson; AI tools are part of our world now, for better or worse—but they can be repurposed with sociological imagination
 
