@@ -234,6 +234,7 @@ AI in specific fields.
 
 - [A Silicon Cage?: Qualitative Research in the Era of AI](https://www.cultureofmedicine.org/blog/a-silicon-cage-qualitative-research-in-the-era-of-ai) — Abramson (2023), *Medical Cultures Lab*. Weber's "iron cage" meets AI tools.
 - [Algorithmic Control in Platform Food-Delivery Work](https://doi.org/10.1177/2378023119870041) — Griesbach, Reich, Elliott-Negri & Milkman (2019), *Socius*. Empirical study of how delivery platforms use algorithmic management to direct and discipline labor.
+- [When Being a Data Annotator Was Not Yet a Job](https://doi.org/10.1177/23780231241259617) — Li (2024), *Socius* 10. Traces the laboratory origins of "dispersible labor" — the hidden human image-labeling work behind computer-vision AI — showing how data annotation became a dispersed, low-status job.
 
 ---
 
