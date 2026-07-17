@@ -176,6 +176,8 @@ Adapted from Abramson et al. (2026), [Qualitative Research in an Era of Artifici
 
 > **Key Insight**: "AI assists but does not replace researcher judgment. The most effective workflows maintain human oversight at decision points while leveraging AI for repetitive or scale-dependent tasks." (Abramson et al. 2026)
 
+For the lab's hands-on end-to-end workflow and data schema, see [Teaching → Workflow Steps](https://github.com/Computational-Ethnography-Lab/teaching#workflow-steps-end-to-end).
+
 ---
 
 ## Responsible AI & Ethics
@@ -262,6 +264,7 @@ University-specific policies for responsible AI use.
 Computational Ethnography Lab materials and related publications, gathered in one place.
 
 - [Computational Analysis for Qualitative Data](https://github.com/Computational-Ethnography-Lab/teaching) — Lab teaching repository: workflow, Python toolkits, visualization, and bibliography for integrating computational text analysis with qualitative research.
+- [CMAP Visualization Toolkit](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) — Open-source Python toolkit for visualizing patterns in qualitative text data: word clouds, t-SNE semantic maps, word/code heatmaps, and semantic networks. Runs locally (secure) or in Colab.
 - [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52:20.1–20.27. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
 - [The Promises of Computational Ethnography](https://doi.org/10.1177/1466138117725340) — Abramson, Joslyn, Rendle, Garrett & Dohan (2018), *Ethnography* 19(2):254–284. How computational tools extend ethnographic analysis.
 - [Ethnography and Machine Learning: Synergies and New Directions](https://doi.org/10.1093/oxfordhb/9780197653609.013.36) — Li & Abramson (2025), in *The Oxford Handbook of the Sociology of Machine Learning*, pp. 245–272.
@@ -271,6 +274,8 @@ Computational Ethnography Lab materials and related publications, gathered in on
 ## Key Terms
 
 Plain-language definitions of terms you encounter when using AI in research. Each term links a general reference plus an independent source.
+
+> **Scope:** these Key Terms cover AI, machine-learning, and agent/tooling vocabulary. For methods vocabulary specific to computational qualitative analysis (e.g. computational ethnography, scaling up/down, HHMLA), see the [Teaching → Glossary](https://github.com/Computational-Ethnography-Lab/teaching#iv-glossary-selected).
 
 **Foundations**
 
