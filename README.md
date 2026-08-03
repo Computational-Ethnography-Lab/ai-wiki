@@ -44,7 +44,7 @@ A curated collection of resources for understanding artificial intelligence—fr
 > **On Terminology** (Abramson et al. 2026, p. 5):
 > 
 > "*Artificial intelligence (AI) refers to technologies designed to mimic human performance on tasks that historically required human intelligence. This can include recognizing patterns, extracting text from .pdf files, classifying images, summarizing interviews, or generating synthetic content such as manipulated images or text. Some subfields commonly used in qualitative research workflows include machine learning (ML) for analyzing behaviors and cases, natural language processing (NLP) for parsing language data, and computer vision for analyzing images. Large language models (LLMs)—deep learning systems trained on mass-scale text data to predict and/or generate language (GPT is a commercial example)—are a subset of AI.*"
-> See Abramson et al. (2026), [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) ([published](https://doi.org/10.1146/annurev-soc-011824-104836)), Table 1 for a full typology.
+> See Abramson et al. (2026), [Qualitative Research in an Era of Artificial Intelligence](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836), Table 1 for a full typology.
 > Today the term is often used synonymously with generative Large Language Models (LLMs) like ChatGPT, Claude, and Gemini.
 
 Short, accessible introductions to large language models and AI fundamentals.
@@ -110,7 +110,7 @@ How social scientists are thinking about AI.
 - [Can Generative AI Improve Social Science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) — Bail (2024), *PNAS*. Review of AI applications across survey, experiments, content analysis, agent-based models.
 - [*The Ordinal Society*](https://www.hup.harvard.edu/books/9780674971141) — Fourcade & Healy (2024), Harvard University Press. How pervasive measurement, scoring, and ranking by data-driven systems reshape markets, the public sphere, and the self.
 - [Start Generating: Harnessing GAI for Sociological Research](https://doi.org/10.1177/23780231241259651) — Davidson (2024), *Socius*. Overview of GAI applications: text classification, image analysis, synthetic media.
-- [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52:20.1–20.27. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+- [Qualitative Research in an Era of Artificial Intelligence](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52(1):35–61. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
 - [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) — Edelmann, Wolff, Montagne & Bail (2020), *Annual Review of Sociology*. Reviews how computational methods and large-scale digital data are reshaping sociological inquiry.
 
 ### Attitudes Toward AI
@@ -163,7 +163,7 @@ How social scientists are thinking about AI.
 
 ## Social Science Workflow with AI
 
-Adapted from Abramson et al. (2026), [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) ([published](https://doi.org/10.1146/annurev-soc-011824-104836)), *Annual Review of Sociology*, Table 2:
+Adapted from Abramson et al. (2026), [Qualitative Research in an Era of Artificial Intelligence](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836), *Annual Review of Sociology*, Table 2:
 
 |  | Assistive | Automated | Agentic |
 |---|-----------|-----------|---------|
@@ -265,7 +265,7 @@ Computational Ethnography Lab materials and related publications, gathered in on
 
 - [Computational Analysis for Qualitative Data](https://github.com/Computational-Ethnography-Lab/teaching) — Lab teaching repository: workflow, Python toolkits, visualization, and bibliography for integrating computational text analysis with qualitative research.
 - [CMAP Visualization Toolkit](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) — Open-source Python toolkit for visualizing patterns in qualitative text data: word clouds, t-SNE semantic maps, word/code heatmaps, and semantic networks. Runs locally (secure) or in Colab.
-- [Qualitative Research in an Era of Artificial Intelligence](https://arxiv.org/abs/2509.12503) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52:20.1–20.27. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+- [Qualitative Research in an Era of Artificial Intelligence](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52(1):35–61. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
 - [The Promises of Computational Ethnography](https://doi.org/10.1177/1466138117725340) — Abramson, Joslyn, Rendle, Garrett & Dohan (2018), *Ethnography* 19(2):254–284. How computational tools extend ethnographic analysis.
 - [Ethnography and Machine Learning: Synergies and New Directions](https://doi.org/10.1093/oxfordhb/9780197653609.013.36) — Li & Abramson (2025), in *The Oxford Handbook of the Sociology of Machine Learning*, pp. 245–272.
 
