@@ -96,7 +96,7 @@ Contrasting viewpoints to help you form your own position.
 
 ### The Pragmatic Case: Considered Use 
 
-- [From Carbon Paper to Code: Crafting Sociology in an Age of AI](https://contexts.org/blog/soc-ai/) — Corey M. Abramson; AI tools are part of our world now, for better or worse—but they can be repurposed with sociological imagination
+- [From Carbon Paper to Code: Crafting Sociology in an Age of AI](https://computationalethnography.org/writing/from-carbon-paper-to-code/) — Corey M. Abramson; AI tools are part of our world now, for better or worse—but they can be repurposed with sociological imagination
 
 ---
 
