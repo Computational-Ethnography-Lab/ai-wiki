@@ -12,6 +12,7 @@ A curated collection of resources for understanding artificial intelligence—fr
 > **About this wiki**: Companion resource for the "Everything You Wanted to Know About AI But Were Afraid to Ask" event hosted by [CIISR](https://ciisr.rice.edu/)
 > Very much in progress...
 > Contributions welcome via pull request.
+
 ---
 
 ## Table of Contents
@@ -42,7 +43,7 @@ A curated collection of resources for understanding artificial intelligence—fr
 ## Getting Started: What is AI?
 
 > **On Terminology** (Abramson et al. 2026, p. 5):
-> 
+>
 > "*Artificial intelligence (AI) refers to technologies designed to mimic human performance on tasks that historically required human intelligence. This can include recognizing patterns, extracting text from .pdf files, classifying images, summarizing interviews, or generating synthetic content such as manipulated images or text. Some subfields commonly used in qualitative research workflows include machine learning (ML) for analyzing behaviors and cases, natural language processing (NLP) for parsing language data, and computer vision for analyzing images. Large language models (LLMs)—deep learning systems trained on mass-scale text data to predict and/or generate language (GPT is a commercial example)—are a subset of AI.*"
 > See Abramson et al. (2026), [Qualitative Research in an Era of Artificial Intelligence](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836), Table 1 for a full typology.
 > Today the term is often used synonymously with generative Large Language Models (LLMs) like ChatGPT, Claude, and Gemini.
@@ -55,22 +56,18 @@ Short, accessible introductions to large language models and AI fundamentals.
 
 ### Practical Guides
 
-
-
-- [How to Actually Use AI in 2026: The Complete Proficiency Guide](https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/) — The Neuron. A five-level framework for using AI tools, from basic setup and prompting through reusable workflows and autonomous agents; aimed at newcomers but scales up.
-- [AI for Total Beginners: Learn the Absolute Basics of AI 2026](https://www.theneuron.ai/explainer-articles/everything-we-covered-in-our-ai-for-total-beginners-livestream-full-guide-with-timestamps/) — The Neuron. Step-by-step livestream walkthrough (with timestamps) of setting up projects, writing prompts, building skills, and scheduling tasks across ChatGPT, Claude, and Gemini; includes a "which tool is best for what" rankings section.
-
-> **Note**: From The Neuron, an ad-supported AI newsletter — useful beginner walkthroughs, but expect some ads.
-
+- [Claude 101](https://academy.claude.com/courses/claude-101) — Anthropic Academy. Official A–Z course: first conversation, prompting, projects, artifacts, skills, and connected tools.
+- [Best practices for Claude Code](https://code.claude.com/docs/en/best-practices) — Anthropic. Official guide for using Claude Code across files, commands, and parallel sessions.
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) — Official best practices for GPT models
 - [Anthropic Claude Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — Official guide for Claude models
 - [Gemini Prompt Engineering Guide](https://ai.google.dev/gemini-api/docs/prompting-strategies) — Official guide for Gemini models
 - [Context Engineering Guide](https://www.datacamp.com/blog/context-engineering) — DataCamp; beyond prompts: designing full information flows for AI
 - [Ollama Quickstart Guide](https://docs.ollama.com/quickstart) — Run open-source models locally—installation, first model, API basics
-- [Context Engineering with Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — Anthropic (2024); managing context windows for AI agents beyond prompt engineering
 - [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai) — "Best practices" for AI use in academic settings, with lots of guides.
+- [Artificial Intelligence Teaching Guide](https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence-teaching-guide) — Stanford Teaching Commons. How generative AI works in teaching, plus course policy and assignment design.
 
 ### Prompts
+
 - [ChatGPT Prompts for University Educators](https://chatgpt.com/use-cases/university-educators) - Faculty from a dozen disciplines shared prompts they use for teaching and research
 
 ---
@@ -82,19 +79,21 @@ Contrasting viewpoints to help you form your own position.
 ### The Optimist Case
 
 - [One Useful Thing](https://www.oneusefulthing.org/) — Ethan Mollick; AI as collaborative partner; practical applications for knowledge work
-- [*Co-Intelligence*](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/) (2024) — Ethan Mollick; book-length treatment of human-AI collaboration
+- *[Co-Intelligence](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)* (2024) — Ethan Mollick; book-length treatment of human-AI collaboration
+- [AI agents are ‘aeroplanes for the mind’: five ways to ensure that scientists are responsible pilots](https://www.dashunwang.com/academic-articles/ai-agents-are-aeroplanes-for-the-mind) — Wang (2026), *Nature*. Five practices for using AI agents in scientific work.
 
 ### The Critical Case
 
 - [I Set Out to Study Which Jobs Should Be Done by AI](https://www.theguardian.com/commentisfree/2025/jan/21/ai-jobs-human-work-relationship-tech) — Allison Pugh; human connection has limits that AI cannot cross
-- [*The Last Human Job*](https://press.princeton.edu/books/hardcover/9780691240817/the-last-human-job) (2024) — Allison Pugh; why certain work requires irreplaceable human qualities
+- *[The Last Human Job](https://press.princeton.edu/books/hardcover/9780691240817/the-last-human-job)* (2024) — Allison Pugh; why certain work requires irreplaceable human qualities
+- [Let AI Burn](https://www.wheresyoured.at/let-ai-burn/) — Ed Zitron (2026). The generative-AI industry is a bailout-seeking bubble and should be left to fail.
 
 ### The "It's Complicated" Case
 
 - [AI Snake Oil](https://www.aisnakeoil.com/) — Narayanan & Kapoor; separating genuine capabilities from hype
 - [A Guide to Understanding AI as Normal Technology](https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal) — Narayanan & Kapoor; AI as evolving technology, not magic
 
-### The Pragmatic Case: Considered Use 
+### The Pragmatic Case: Considered Use
 
 - [From Carbon Paper to Code: Crafting Sociology in an Age of AI](https://computationalethnography.org/writing/from-carbon-paper-to-code/) — Corey M. Abramson; AI tools are part of our world now, for better or worse—but they can be repurposed with sociological imagination
 
@@ -106,19 +105,22 @@ How social scientists are thinking about AI.
 
 ### Overviews & Perspectives
 
-- [The Society of Algorithms](https://doi.org/10.1146/annurev-soc-090820-020800) — Burrell & Fourcade (2021), *Annual Review of Sociology*. How algorithms mediate social life.
 - [Can Generative AI Improve Social Science?](https://www.pnas.org/doi/10.1073/pnas.2314021121) — Bail (2024), *PNAS*. Review of AI applications across survey, experiments, content analysis, agent-based models.
-- [*The Ordinal Society*](https://www.hup.harvard.edu/books/9780674971141) — Fourcade & Healy (2024), Harvard University Press. How pervasive measurement, scoring, and ranking by data-driven systems reshape markets, the public sphere, and the self.
+- *[The Ordinal Society](https://www.hup.harvard.edu/books/9780674971141)* — Fourcade & Healy (2024), Harvard University Press. How pervasive measurement, scoring, and ranking by data-driven systems reshape markets, the public sphere, and the self.
 - [Start Generating: Harnessing GAI for Sociological Research](https://doi.org/10.1177/23780231241259651) — Davidson (2024), *Socius*. Overview of GAI applications: text classification, image analysis, synthetic media.
 - [Qualitative Research in an Era of Artificial Intelligence](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52(1):35–61. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
-- [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) — Edelmann, Wolff, Montagne & Bail (2020), *Annual Review of Sociology*. Reviews how computational methods and large-scale digital data are reshaping sociological inquiry.
+- [Large AI models are cultural and social technologies](https://henryfarrell.net/large-ai-models-are-cultural-and-social-technologies/) — Farrell, Gopnik, Shalizi & Evans (2025), *Science*. Treats large models as infrastructure that reshapes culture and social life.
+- [Agentic AI and the next intelligence explosion](https://arxiv.org/abs/2603.20639) — Evans, Bratton & Agüera y Arcas (2026), *Science*. What follows if agentic systems start improving themselves.
+- [The Society of Algorithms](https://doi.org/10.1146/annurev-soc-090820-020800) — Burrell & Fourcade (2021), *Annual Review of Sociology*. How algorithms mediate social life.
 
 ### Attitudes Toward AI
 
-- [Generative AI in Sociological Research: State of the Discipline](https://sociologicalscience.com/articles-v13-3-45/) ([preprint](https://arxiv.org/abs/2511.16884)) — Alvero, Stoltz, Stuhler & Taylor (2025), *Sociological Science*. Survey of authors across 50 sociology journals on GenAI use and attitudes. Finds sociologists primarily use GenAI for writing tasks; low trust in outputs regardless of expertise; few differences between computational and non-computational scholars.
-- [Is it OK for AI to Write Science Papers? Nature Survey Shows Researchers Are Split](https://doi.org/10.1038/d41586-025-01463-8) — Kwon (2025), *Nature* 641. Survey of ~5,000 researchers worldwide; sharp divisions on ethical acceptability of AI in manuscript preparation; perception-practice gap where few disclose AI use despite broad acceptance.
-- [Introducing Anthropic Interviewer: What 1,250 Professionals Told Us About Working with AI](https://www.anthropic.com/research/anthropic-interviewer) — Handa et al. (2025), Anthropic Research. AI-conducted qualitative interviews with 1,250 professionals (general workforce, scientists, creatives). Notable for using AI to do qualitative research at scale; finds optimism alongside stigma concerns (69%), displacement anxiety (55%), and low trust among scientists for core research tasks. [Public dataset](https://huggingface.co/datasets/Anthropic/AnthropicInterviewer).
-- [We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research](https://doi.org/10.1177/10778004251401851) — Jowsey, Braun, Clarke, Lupton, Fine et al. (2025), *Qualitative Inquiry*. A statement co-signed by Braun, Clarke, and 415 qualitative researchers across 32 countries arguing that reflexive thematic analysis is an irreducibly human practice and that generative-AI use is methodologically incongruent.
+- [Generative AI in Sociological Research: State of the Discipline](https://sociologicalscience.com/articles-v13-3-45/) ([preprint](https://arxiv.org/abs/2511.16884)) — Alvero, Stoltz, Stuhler & Taylor (2025), *Sociological Science*. Survey of sociologists on GenAI use and attitudes.
+- [Is it OK for AI to Write Science Papers? Nature Survey Shows Researchers Are Split](https://doi.org/10.1038/d41586-025-01463-8) — Kwon (2025), *Nature* 641. Survey of researchers on AI in manuscript writing; views split, few disclose.
+- [Introducing Anthropic Interviewer: What 1,250 Professionals Told Us About Working with AI](https://www.anthropic.com/research/anthropic-interviewer) — Handa et al. (2025), Anthropic Research. AI-led interviews with 1,250 professionals on working with AI. [Public dataset](https://huggingface.co/datasets/Anthropic/AnthropicInterviewer).
+- [We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research](https://doi.org/10.1177/10778004251401851) — Jowsey, Braun, Clarke, Lupton, Fine et al. (2025), *Qualitative Inquiry*. Statement that reflexive thematic analysis is a human practice and GenAI does not fit.
+- [How latent and prompting biases in AI-generated historical narratives influence opinions](https://doi.org/10.1093/pnasnexus/pgag022) — Shu, Karell, Okura & Davidson (2026), *PNAS Nexus*. How biased AI histories shift readers’ opinions.
+- [Generative AI Meets Open-Ended Survey Responses](https://osf.io/preprints/socarxiv/4esdp_v2) — Zhang, Xu & Alvero (2025), *Sociological Methods & Research* 54(3):1197–1242. Participant LLM use in open-ended surveys and the homogenization of responses.
 
 ### LLM-Focused Methods
 
@@ -127,6 +129,13 @@ How social scientists are thinking about AI.
 - [Scaling Hermeneutics](https://doi.org/10.1140/epjds/s13688-025-00548-8) — Dunivin (2025), *EPJ Data Science* 14(1):28. Hybrid approach preserving interpretive depth while scaling qualitative coding with LLMs; includes codebook adaptation workflow and intercoder reliability benchmarks.
 - [Utilizing AI to Facilitate Qualitative Surgical Research](https://pubmed.ncbi.nlm.nih.gov/40557355/) — Farber, Abramson & Reich (2025), *Annals of Surgery Open* 6(2):e577. AI and qualitative in medicine: uses, cautions, challenges.
 - [Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning](https://doi.org/10.1177/00491241251325243) — Chae & Davidson (2025), *Sociological Methods & Research* 55(2):501-567. Finds that LLMs can code and classify text accurately given appropriate inputs, and that fine-tuned, purpose-built small language models are a competitive alternative—comparably accurate at substantially lower cost.
+- [GPT as a Measurement Tool](https://www.nber.org/papers/w34834) — Asirvatham, Mokski & Shleifer (2026), NBER Working Paper 34834. Using GPT for large-scale social measurement. [Software](https://github.com/openai/GABRIEL).
+- [Joint Text-and-Image Clustering for Social Science Research](https://hanzhang.xyz/files/Zhang%20and%20Leung%20-%202025%20-%20Joint%20Text-and-Image%20Clustering%20for%20Social%20Science%20Research%20accepted%20version.pdf) — Zhang & Leung (2025), *Sociological Methodology*. Clustering text–image pairs with shared embeddings.
+- [AInterviewer](https://aclanthology.org/2026.acl-demo.12/) — Gårdhus, Vitsakis, Frederiksen, Rogers & Carlsen (2026), *ACL*. A platform for designing and running AI-led qualitative interviews.
+- [SciSciGPT: advancing human–AI collaboration in the science of science](https://www.nature.com/articles/s43588-025-00906-6) — Shao, Wang, Qian, Pan, Liu & Wang (2025), *Nature Computational Science*. Human–AI system for science-of-science research. [GitHub](https://github.com/Northwestern-CSSI/SciSciGPT).
+- [Values in the Wild](https://www.anthropic.com/research/values-wild) — Huang, Durmus, McCain, Handa et al. (2025), Anthropic Research. Values expressed in real-world language-model interactions. [arXiv](https://arxiv.org/abs/2504.15236).
+- [Multimodal large language models can make context-sensitive hate speech evaluations aligned with human judgement](https://osf.io/f2p7d_v2) — Davidson (2025), *Nature Human Behaviour*. Multimodal models for hate-speech judgments that track human context sensitivity.
+- [A Turing test of whether AI chatbots are behaviorally similar to humans](https://doi.org/10.1073/pnas.2313925121) — Mei, Xie, Yuan & Jackson (2024), *PNAS*. Behavioral Turing tests of chatbot play in classic games.
 
 ### LLM Simulation of Social Agents
 
@@ -134,6 +143,11 @@ How social scientists are thinking about AI.
 - [Simulating Subjects](https://doi.org/10.1177/00491241251337316) — Kozlowski & Evans (2025), *SMR* 54(3):1017-1073. Promise and peril of using LLMs to simulate human subjects and social interactions.
 - [Machine Bias: How Do Generative Language Models Answer Opinion Polls?](https://doi.org/10.1177/00491241251330582) — Boelaert, Coavoux, Ollion, Petev & Präg (2025), *Sociological Methods & Research* 54(3):1156-1196. Generative LLMs give biased, non-representative answers when used to simulate opinion-poll responses.
 - [Synthetic Replacements for Human Survey Data? The Perils of Large Language Models](https://doi.org/10.1017/pan.2024.5) — Bisbee, Clinton, Dorff, Kenkel & Larson (2024), *Political Analysis* 32(4):401-416. LLM-generated survey responses match some averages but distort variation and drift over time—cautioning against replacing human respondents.
+- [LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals](https://arxiv.org/abs/2411.10109) — Park, Zou, Kamphorst, Egan, Shaw, Hill, Cai, Morris, Liang, Willer & Bernstein (2024). Interview- and survey-grounded agents for 1,052 people.
+- [Finetuning LLMs for Human Behavior Prediction in Social Science Experiments](https://aclanthology.org/2025.emnlp-main.1530/) — Kolluri, Wu, Park & Bernstein (2025), *EMNLP*. Fine-tuning on 210 experiments to predict human responses.
+- [Large language models can predict the results of social science experiments](https://osf.io/preprints/psyarxiv/3svep_v1) — Ashokkumar, Hewitt, Ghezae & Willer (2026), *Nature*. LLM forecasts of experimental results compared with later human trials.
+- [Generative Personality Simulation via Theory-Informed Structured Interview](https://aclanthology.org/2026.eacl-long.82/) — Wang, Zou, Jiang, Chen, Sun, Yi, Xiao & Oswald (2026), *EACL*. Personality simulation from theory-informed interviews.
+- [A theory of appropriateness](https://arxiv.org/abs/2412.19010) — Leibo, Vezhnevets, Diaz et al. (2024). Appropriateness as a guide for social behavior in multi-agent systems.
 
 ### Qualitative Coding Methods (Broader Context)
 
@@ -158,6 +172,9 @@ How social scientists are thinking about AI.
 - [Sub-setting Qualitative Data for Machine Learning](https://cmabramson.com/resources/f/sub-setting-qualitative-data-for-machine-learning) — Guide to creating comparison sets in QDA
 - [Using Machine Learning with Ethnographic Interviews](https://cmabramson.com/resources/f/using-machine-learning-with-ethnographic-interviews) — Blog companion to Li, Dohan & Abramson (2021)
 - [Ethnography, Data Transparency, and the Information Age](https://doi.org/10.1146/annurev-soc-090320-124805) — Murphy, Jerolmack & Smith (2021), *Annual Review of Sociology*. Reviews two decades of debate over how ethnographers record, anonymize, and share fieldnotes amid open-science mandates and data-repository requirements.
+- [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) — Edelmann, Wolff, Montagne & Bail (2020), *Annual Review of Sociology*. Reviews how computational methods and large-scale digital data are reshaping sociological inquiry.
+- [Deep Learning With DAGs](https://arxiv.org/abs/2401.06864) — Balgi, Daoud, Peña, Wodtke & Zhou (2025), *Sociological Methods & Research*. Causal-graphical deep learning for theories represented as DAGs.
+- [Causal Machine Learning](https://link.springer.com/content/pdf/10.1007/s11577-026-01053-0.pdf) — Jeon & Brand (2026), *Kölner Zeitschrift für Soziologie und Sozialpsychologie*. Deductive–inductive framework for causal machine learning in sociology.
 
 ---
 
@@ -165,18 +182,20 @@ How social scientists are thinking about AI.
 
 Adapted from Abramson et al. (2026), [Qualitative Research in an Era of Artificial Intelligence](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836), *Annual Review of Sociology*, Table 2:
 
-|  | Assistive | Automated | Agentic |
-|---|-----------|-----------|---------|
-| **Research Design** | Citation management, project records, version control | Readability checks, data-assisted sampling, simulating sample-size | Literature review synthesis |
-| **Data Collection** | Participant/site tracking, hyperlink field artifacts, e-consent capture, digital diary, cloud backup | Multi-media aggregation, sensor/geospatial logging, timestamping, live transcription | Adaptive or event-based SMS prompts |
-| **Data Processing** | Interview transcription, transcript editing, file-format normalization, data versioning | Scanned docs/images to text, A/V speech-to-text pipelines, de-identification workflows, metadata tagging, quality checks | Adaptive or event-based reminders |
-| **Data Analysis** | Human coding, quote retrieval, memo writing | List/regex scripts coding, inter-coder reliability tests, pattern examination, visualizing patterns, counterfactual checks, network overlays, ML classifiers, ML embeddings | LLM-assisted coding, LLM-assisted memos, augmented retrieval, semantic Q&A |
-| **Writing & Presentation** | Triangulation, consistency checks, real-time writing collaboration | Retrieval of analytic products, generating visuals, citation formatting, plain-language summaries, accessibility audits | Assisted writing, assisted editing |
-| **Sharing & Preservation** | Replication code, notebooks, codebooks, DOI archiving, long-term preservation | Containerized analytic spaces, interactive data portals/APIs, tiered access controls, encryption for sensitive data | Simulated participants |
+|                            | Assistive                                                                                            | Automated                                                                                                                                                                   | Agentic                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Research Design**        | Citation management, project records, version control                                                | Readability checks, data-assisted sampling, simulating sample-size                                                                                                          | Literature review synthesis                                                |
+| **Data Collection**        | Participant/site tracking, hyperlink field artifacts, e-consent capture, digital diary, cloud backup | Multi-media aggregation, sensor/geospatial logging, timestamping, live transcription                                                                                        | Adaptive or event-based SMS prompts                                        |
+| **Data Processing**        | Interview transcription, transcript editing, file-format normalization, data versioning              | Scanned docs/images to text, A/V speech-to-text pipelines, de-identification workflows, metadata tagging, quality checks                                                    | Adaptive or event-based reminders                                          |
+| **Data Analysis**          | Human coding, quote retrieval, memo writing                                                          | List/regex scripts coding, inter-coder reliability tests, pattern examination, visualizing patterns, counterfactual checks, network overlays, ML classifiers, ML embeddings | LLM-assisted coding, LLM-assisted memos, augmented retrieval, semantic Q&A |
+| **Writing & Presentation** | Triangulation, consistency checks, real-time writing collaboration                                   | Retrieval of analytic products, generating visuals, citation formatting, plain-language summaries, accessibility audits                                                     | Assisted writing, assisted editing                                         |
+| **Sharing & Preservation** | Replication code, notebooks, codebooks, DOI archiving, long-term preservation                        | Containerized analytic spaces, interactive data portals/APIs, tiered access controls, encryption for sensitive data                                                         | Simulated participants                                                     |
 
 > **Key Insight**: "AI assists but does not replace researcher judgment. The most effective workflows maintain human oversight at decision points while leveraging AI for repetitive or scale-dependent tasks." (Abramson et al. 2026)
 
 For the lab's hands-on end-to-end workflow and data schema, see [Teaching → Workflow Steps](https://github.com/Computational-Ethnography-Lab/teaching#workflow-steps-end-to-end).
+
+- [A relational approach to agentic AI in social science research](https://rohanalexander.github.io/notes_on_the_future/09-Davidson.html) — Davidson, in Rohan Alexander, *Notes on the Future*. Hybrid human–AI roles and tasks in research projects.
 
 ---
 
@@ -186,13 +205,14 @@ Frameworks for thinking about AI ethics and responsibility.
 
 ### Foundational Documents
 
-| Framework | Organization | Link |
-|-----------|--------------|------|
-| AI Risk Management Framework (2023) | NIST | [nist.gov](https://www.nist.gov/itl/ai-risk-management-framework) |
-| EU AI Act (2024) | European Union | [artificialintelligenceact.eu](https://artificialintelligenceact.eu/) |
-| Recommendation on the Ethics of AI (2021) | UNESCO | [unesco.org](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
-| Ethically Aligned Design | IEEE | [ethicsinaction.ieee.org](https://ethicsinaction.ieee.org/) |
-| Code of Ethics | ACM | [acm.org](https://www.acm.org/code-of-ethics) |
+| Framework                                   | Organization   | Link                                                                                                                               |
+| ------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| AI Risk Management Framework 1.0 (2023)     | NIST           | [nist.gov](https://www.nist.gov/itl/ai-risk-management-framework)                                                                  |
+| Generative AI Profile, NIST-AI-600-1 (2024) | NIST           | [nist.gov](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) |
+| EU AI Act (2024)                            | European Union | [artificialintelligenceact.eu](https://artificialintelligenceact.eu/)                                                              |
+| Recommendation on the Ethics of AI (2021)   | UNESCO         | [unesco.org](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)                                              |
+| Ethically Aligned Design / AIS              | IEEE           | [standards.ieee.org](https://standards.ieee.org/initiatives/autonomous-intelligence-systems/)                                      |
+| Code of Ethics                              | ACM            | [acm.org](https://www.acm.org/code-of-ethics)                                                                                      |
 
 - [The Global Landscape of AI Ethics Guidelines](https://doi.org/10.1038/s42256-019-0088-2) — Jobin, Ienca & Vayena (2019), *Nature Machine Intelligence*. Systematic review of 84 AI-ethics guidelines worldwide, mapping where principles converge (transparency, justice, non-maleficence) and where they diverge.
 
@@ -202,11 +222,11 @@ Frameworks for thinking about AI ethics and responsibility.
 
 Tracking how governments and institutions are responding to AI.
 
-| Resource | Type | Coverage |
-|----------|------|----------|
-| [AI Watch: Global Regulatory Tracker](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker) | Tracker | 30+ jurisdictions (EU, US, China, UK, etc.) |
-| [Stanford AI Index Report 2025](https://hai.stanford.edu/ai-index/2025-ai-index-report) | Annual Report | Comprehensive data on AI trends, investment, policy |
-| [Stanford STS 14/CS 134: AI Governance](https://web.stanford.edu/class/sts14/index.html) | Course | Graduate syllabus with readings on governance |
+| Resource                                                                                                                 | Type          | Coverage                                            |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------- | --------------------------------------------------- |
+| [AI Watch: Global Regulatory Tracker](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker) | Tracker       | 30+ jurisdictions (EU, US, China, UK, etc.)         |
+| [Stanford AI Index Report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report)                                  | Annual Report | Comprehensive data on AI trends, investment, policy |
+| [Stanford STS 14/CS 134: AI Governance](https://web.stanford.edu/class/sts14/index.html)                                 | Course        | Graduate syllabus with readings on governance       |
 
 ---
 
@@ -234,9 +254,10 @@ AI in specific fields.
 
 ### Software & Society
 
-- [A Silicon Cage?: Qualitative Research in the Era of AI](https://www.cultureofmedicine.org/blog/a-silicon-cage-qualitative-research-in-the-era-of-ai) — Abramson (2023), *Medical Cultures Lab*. Weber's "iron cage" meets AI tools.
 - [Algorithmic Control in Platform Food-Delivery Work](https://doi.org/10.1177/2378023119870041) — Griesbach, Reich, Elliott-Negri & Milkman (2019), *Socius*. Empirical study of how delivery platforms use algorithmic management to direct and discipline labor.
 - [When Being a Data Annotator Was Not Yet a Job](https://doi.org/10.1177/23780231241259617) — Li (2024), *Socius* 10. Traces the laboratory origins of "dispersible labor" — the hidden human image-labeling work behind computer-vision AI — showing how data annotation became a dispersed, low-status job.
+- [From Conflict to Cohesion](https://osf.io/preprints/socarxiv/umh5n_v2) — Yeaton, Anshuman & Srivastava (2026), *American Journal of Sociology* 131(6):1397–1465. Structural similarity and uncivil discourse in polarized Reddit groups.
+- [Artificial Intelligence at Work](https://purl.stanford.edu/rf958bq8885) — Karunakaran, Lebovitz, Narayanan & Rahman (2025), *Academy of Management Annals* 19(2):693–735. How AI changes workplace inequality.
 
 ---
 
@@ -252,9 +273,9 @@ Structured learning paths for AI governance, ethics, and computational text anal
 
 University-specific policies for responsible AI use.
 
-| Institution | Resource |
-|-------------|----------|
-| Rice University | [AI Usage Guidelines](https://oit.rice.edu/ai-usage-guidelines) |
+| Institution         | Resource                                                          |
+| ------------------- | ----------------------------------------------------------------- |
+| Rice University     | [AI Usage Guidelines](https://oit.rice.edu/ai-usage-guidelines)   |
 | Stanford University | [Responsible AI](https://uit.stanford.edu/security/responsibleai) |
 
 ---
@@ -299,7 +320,7 @@ Plain-language definitions of terms you encounter when using AI in research. Eac
 - **Transformer** — A neural-network architecture well suited to sequences such as text, and the basis of modern language models. ([Wikipedia](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)), [NVIDIA](https://blogs.nvidia.com/blog/what-is-a-transformer-model/))
 - **Foundation model (base model)** — A general-purpose model trained on broad data before any task-specific fine-tuning or customization. ([Wikipedia](https://en.wikipedia.org/wiki/Foundation_model), [AWS](https://aws.amazon.com/what-is/foundation-models/))
 - **Large language model (LLM)** — A deep-learning system trained on mass-scale text data to predict and/or generate language; a subset of AI. ([Wikipedia](https://en.wikipedia.org/wiki/Large_language_model), [IBM](https://www.ibm.com/think/topics/large-language-models))
-- **Small language model (SLM)** — A language model with far fewer parameters than a large one, designed to run efficiently on modest or local hardware (e.g., a desktop or in-house server) at lower cost. ([Wikipedia](https://en.wikipedia.org/wiki/Small_language_model); Abramson et al. 2026 run local SLMs for secure coding, [*ARS*](https://doi.org/10.1146/annurev-soc-011824-104836))
+- **Small language model (SLM)** — A language model with far fewer parameters than a large one, designed to run efficiently on modest or local hardware (e.g., a desktop or in-house server) at lower cost. ([Wikipedia](https://en.wikipedia.org/wiki/Small_language_model); Abramson et al. 2026 run local SLMs for secure coding, *[ARS](https://doi.org/10.1146/annurev-soc-011824-104836)*)
 - **Attention / self-attention** — A mechanism that lets a model weigh which parts of a sequence matter most relative to each other; the core operation behind transformers. ([Wikipedia](https://en.wikipedia.org/wiki/Attention_(machine_learning)), [Google](https://developers.google.com/machine-learning/glossary#attention))
 
 **Language-model terms**
@@ -359,14 +380,18 @@ More technical terms from agent-based and multi-agent tooling.
 ## Contributing
 
 To suggest additions:
+
 1. Fork this repository
 2. Add your resource to the appropriate section
 3. Include: Title, URL, Author/Year, and 1-sentence description
 4. Submit a pull request
 
 ---
-*Last updated: June 2026*
+
+*Last updated: August 2026*
+
 > Some content in this repository was edited and formatted with assistance from Claude Opus 4.8 (Anthropic).
+
 ---
 
 <p align="center">
@@ -374,5 +399,3 @@ To suggest additions:
     <img src="https://github.com/Computational-Ethnography-Lab/.github/raw/95529a5a1ffa938274ac5b4b912dbf99e26fd572/profile/images/lab_banner.jpg" alt="Computational Ethnography Lab Banner" width="100%">
   </a>
 </p>
-
-
