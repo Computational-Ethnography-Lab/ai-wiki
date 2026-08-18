@@ -19,7 +19,7 @@ A curated collection of resources for understanding artificial intelligence—fr
 
 - [Getting Started: What is AI?](#getting-started-what-is-ai)
 - [Dueling Perspectives: AI Optimism vs. Criticism](#dueling-perspectives-ai-optimism-vs-criticism)
-- [Sociological Perspectives](#sociological-perspectives)
+- [Social Science Perspectives](#social-science-perspectives)
   - [Overviews & Perspectives](#overviews--perspectives)
   - [Attitudes Toward AI](#attitudes-toward-ai)
   - [LLM-Focused Methods](#llm-focused-methods)
@@ -99,7 +99,7 @@ Contrasting viewpoints to help you form your own position.
 
 ---
 
-## Sociological Perspectives
+## Social Science Perspectives
 
 How social scientists are thinking about AI.
 
@@ -193,7 +193,7 @@ Adapted from Abramson et al. (2026), [Qualitative Research in an Era of Artifici
 
 > **Key Insight**: "AI assists but does not replace researcher judgment. The most effective workflows maintain human oversight at decision points while leveraging AI for repetitive or scale-dependent tasks." (Abramson et al. 2026)
 
-For the lab's hands-on end-to-end workflow and data schema, see [Teaching → Workflow Steps](https://github.com/Computational-Ethnography-Lab/teaching#workflow-steps-end-to-end).
+For an example of end-to-end workflow and data schema, see [Teaching → Workflow Steps](https://github.com/Computational-Ethnography-Lab/teaching#workflow-steps-end-to-end).
 
 - [A relational approach to agentic AI in social science research](https://rohanalexander.github.io/notes_on_the_future/09-Davidson.html) — Davidson, in Rohan Alexander, *Notes on the Future*. Hybrid human–AI roles and tasks in research projects.
 
