@@ -53,6 +53,7 @@ Short, accessible introductions to large language models and AI fundamentals.
 - [What is a Large Language Model?](https://www.cloudflare.com/learning/ai/what-is-large-language-model/) — Cloudflare's accessible technical overview
 - [What are Large Language Models?](https://www.ibm.com/think/topics/large-language-models) — IBM's introduction to LLMs
 - [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) — Mark Riedl (Georgia Tech); balanced, jargon-free overview
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) — Cho et al. (2026), *CHI*. Interactive in-browser GPT-2 that shows, step by step, how a transformer predicts the next token; no setup needed. [doi:10.1145/3772318.3791725](https://doi.org/10.1145/3772318.3791725)
 
 ### Practical Guides
 
@@ -116,6 +117,7 @@ How social scientists are thinking about AI.
 - *[The Ordinal Society](https://www.hup.harvard.edu/books/9780674971141)* — Fourcade & Healy (2024), Harvard University Press. How pervasive measurement, scoring, and ranking by data-driven systems reshape markets, the public sphere, and the self.
 - [Start Generating: Harnessing GAI for Sociological Research](https://doi.org/10.1177/23780231241259651) — Davidson (2024), *Socius*. Overview of GAI applications: text classification, image analysis, synthetic media.
 - [Qualitative Research in an Era of Artificial Intelligence](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836) — Abramson, Prendergast, Li & Dohan (2026), *Annual Review of Sociology* 52(1):35–61. Uses, examples, workflow, and cautions for AI in social science. [doi:10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+- [Generative AI and Society](https://doi.org/10.31235/osf.io/wb72h_v1) — Nelson, Karell & Davidson (2026), SocArXiv preprint. Argues that interactivity makes generative AI inherently sociological, with a framework for how it expands users, stands in for society, and expresses power.
 - [Large AI models are cultural and social technologies](https://doi.org/10.1126/science.adt9819) — Farrell, Gopnik, Shalizi & Evans (2025), *Science*. Treats large models as infrastructure that reshapes culture and social life.
 - [Agentic AI and the next intelligence explosion](https://arxiv.org/abs/2603.20639) — Evans, Bratton & Agüera y Arcas (2026), *Science*. What follows if agentic systems start improving themselves.
 - [The Society of Algorithms](https://doi.org/10.1146/annurev-soc-090820-020800) — Burrell & Fourcade (2021), *Annual Review of Sociology*. How algorithms mediate social life.
